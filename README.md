@@ -12,7 +12,7 @@
 
 ## Description
 
-This application allows users to select items from a grocery list, which will then be shown below in a list. All items will be alphabetized and capitalized.
+This application allows users to select items from a grocery list, which will then be shown below in a list. All items will be alphabetized and capitalized. The form will be hidden once it is submitted and the items are listed.
 
 ## Setup/Installation Requirements
 
